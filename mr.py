@@ -31,7 +31,7 @@ st.subheader("Sistema de pedidos de insumos")
 st.image(
     "mr.jpeg",
     caption="Marisquería Ramírez",
-    use_container_width=True,width=100
+    use_container_width=False ,width=100
 )
 
 st.divider()
