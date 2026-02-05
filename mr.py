@@ -29,7 +29,7 @@ st.subheader("Sistema de pedidos de insumos")
 
 # Imagen local
 st.image(
-    "mr.jpg",
+    "mr.jpeg",
     caption="Marisquería Ramírez",
     use_container_width=True
 )
