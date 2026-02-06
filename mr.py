@@ -57,7 +57,7 @@ catalogo = [
     {"Familia": "SAMS", "Producto": "FRIJOL VALLE VERDE (NEGRO)", "Especificación": "2.5 KG"},
     {"Familia": "SAMS", "Producto": "ACEITE 1-2-3", "Especificación": "PAQUETE 3 LITROS"},
     {"Familia": "SAMS", "Producto": "VALENTINA ROJA", "Especificación": "350 ML (6 PZAS)"},
-    {"Familia": "SAMS", "Producto": "VALENTINA ROJA", "Especificación": "4 LITROS (1 PZA)"},
+    {"Familia": "SAMS", "Producto": "VALENTINA GRANDE", "Especificación": "4 LITROS (1 PZA)"},
 
     # -------- MATERIA PRIMA --------
     {"Familia": "MATERIA PRIMA", "Producto": "CHAROLA 835", "Especificación": "FILETES"},
@@ -65,7 +65,7 @@ catalogo = [
     {"Familia": "MATERIA PRIMA", "Producto": "CHAROLA 066", "Especificación": "PEDIDOS MEDIANOS"},
     {"Familia": "MATERIA PRIMA", "Producto": "BOLSA CHICA (1)", "Especificación": "PEDIDOS CHICOS"},
     {"Familia": "MATERIA PRIMA", "Producto": "BOLSA (3)", "Especificación": "PEDIDOS GRANDES"},
-    {"Familia": "MATERIA PRIMA", "Producto": "SERVILLETA", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "SERVILLETA (SERVICIO)", "Especificación": "PAQUETE"},
     {"Familia": "MATERIA PRIMA", "Producto": "TAZÓN (MEDIO LITRO)", "Especificación": "PAQUETE"},
     {"Familia": "MATERIA PRIMA", "Producto": "TAZÓN (LITRO)", "Especificación": "PAQUETE"},
     {"Familia": "MATERIA PRIMA", "Producto": "TAPA TAZÓN", "Especificación": "PAQUETE"},
@@ -94,13 +94,13 @@ catalogo = [
     {"Familia": "SAN JUAN", "Producto": "CHILE PUYA", "Especificación": "GRAMAJE"},
     {"Familia": "SAN JUAN", "Producto": "CHILE GUAJIYO", "Especificación": "GRAMAJE"},
     {"Familia": "SAN JUAN", "Producto": "CHILE CUARESMEÑO", "Especificación": "1 KG"},
-    {"Familia": "SAN JUAN", "Producto": "JITOMATE", "Especificación": "1 KG"},
+    {"Familia": "SAN JUAN", "Producto": "JITOMATE (PARA PICAR)", "Especificación": "1 KG"},
 
     #-------3B-----------------
     {"Familia": "3B", "Producto": "HARINA 3 SOLES", "Especificación": "1 KILO"},
     {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "CHICA"},
     {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "MEDIANA"},
-    {"Familia": "3B", "Producto": "SERVILLETA", "Especificación": "PAQUETE"},
+    {"Familia": "3B", "Producto": "SERVILLETA_SERVICIO", "Especificación": "PAQUETE"},
     {"Familia": "3B", "Producto": "CATSUP", "Especificación": " 1 LITRO"},
 
     #-------TIANGUIS-----------------
