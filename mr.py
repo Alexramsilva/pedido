@@ -81,6 +81,8 @@ catalogo = [
     {"Familia": "SALSAS", "Producto": "LOS JAROCHOS (AMARILLA)", "Especificación": "150 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA INGLESA", "Especificación": "250 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA BRUJA", "Especificación": "40 ML"},
+    {"Familia": "SALSAS", "Producto": "VALENTINA BOLSITA", "Especificación": "1 KG"},
+    {"Familia": "SALSAS", "Producto": "SALADITAS", "Especificación": "1 PAQUETE"},
 
     #-------SAN JUAN-----------------
     {"Familia": "SAN JUAN", "Producto": "CILANTRO", "Especificación": "MANOJO"},
@@ -97,6 +99,15 @@ catalogo = [
     {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "MEDIANA"},
     {"Familia": "3B", "Producto": "SERVILLETA", "Especificación": "PAQUETE"},
     {"Familia": "3B", "Producto": "CATSUP", "Especificación": " 1 LITRO"},
+
+    #-------TIANGUIS-----------------
+    {"Familia": "TIANGUIS", "Producto": "AGUACATE", "Especificación": "1 KILO"},
+    {"Familia": "TIANGUIS", "Producto": "LIMÓN", "Especificación": "1 KILO"},
+    {"Familia": "TIANGUIS", "Producto": "BOLILLO", "Especificación": "PIEZAS"},
+    {"Familia": "TIANGUIS", "Producto": "TORTILLAS", "Especificación": "1 KILO"},
+    {"Familia": "TIANGUIS", "Producto": "JITOMÁTE", "Especificación": "1 KILO"},
+    {"Familia": "TIANGUIS", "Producto": "PEREJIL", "Especificación": "1 KILO"},
+    {"Familia": "TIANGUIS", "Producto": "CEBOLLA", "Especificación": "2 KILO"},
     
 ]
 
