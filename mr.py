@@ -102,6 +102,7 @@ catalogo = [
     {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "MEDIANA"},
     {"Familia": "3B", "Producto": "SERVILLETA_SERVICIO", "Especificación": "PAQUETE"},
     {"Familia": "3B", "Producto": "CATSUP", "Especificación": " 1 LITRO"},
+    {"Familia": "3B", "Producto": "GEL ANTIBACTERIAL", "Especificación": " 200 ML"},
 
     #-------TIANGUIS-----------------
     {"Familia": "TIANGUIS", "Producto": "AGUACATE", "Especificación": "1 KILO"},
