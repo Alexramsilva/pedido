@@ -40,6 +40,14 @@ st.divider()
 # Catálogo de productos
 # =============================
 catalogo = [
+
+    #----------MARISCOS-----
+    {"Familia": "MARISCOS", "Producto": "Camarón", "Especificación": "1 Kg"},
+    {"Familia": "MARISCOS", "Producto": "Pulpo", "Especificación": "0.5 Kg"},
+    {"Familia": "MARISCOS", "Producto": "Mojarra", "Especificación": "Pieza"},
+    {"Familia": "MARISCOS", "Producto": "Pescado", "Especificación": "1 Kg"},
+
+    
     # -------- SAMS --------
     {"Familia": "SAMS", "Producto": "CLORO", "Especificación": "10 LITROS"},
     {"Familia": "SAMS", "Producto": "FABULOSO (LAVANDA)", "Especificación": "10 LITROS"},
@@ -55,11 +63,23 @@ catalogo = [
     {"Familia": "MATERIA PRIMA", "Producto": "CHAROLA 855", "Especificación": "PEDIDOS GRANDES"},
     {"Familia": "MATERIA PRIMA", "Producto": "CHAROLA 066", "Especificación": "PEDIDOS MEDIANOS"},
     {"Familia": "MATERIA PRIMA", "Producto": "BOLSA CHICA (1)", "Especificación": "PEDIDOS CHICOS"},
-    {"Familia": "MATERIA PRIMA", "Producto": "BOLSA (2)", "Especificación": "PEDIDOS GRANDES"},
+    {"Familia": "MATERIA PRIMA", "Producto": "BOLSA (3)", "Especificación": "PEDIDOS GRANDES"},
+    {"Familia": "MATERIA PRIMA", "Producto": "SERVILLETA", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "TAZÓN (MEDIO LITRO)", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "TAZÓN (LITRO)", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "TAPA TAZÓN", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "ROLLO BOLSA POLIPAPEL", "Especificación": "PAQUETE"},
 
     # -------- SALSAS --------
     {"Familia": "SALSAS", "Producto": "VALENTINA NEGRA", "Especificación": "350 ML"},
     {"Familia": "SALSAS", "Producto": "VALENTINA AZUL", "Especificación": "350 ML"},
+    {"Familia": "SALSAS", "Producto": "LA GLORIA (ROJA)", "Especificación": "250 ML"},
+    {"Familia": "SALSAS", "Producto": "LA GLORIA (AMARILLA)", "Especificación": "250 ML"},
+    {"Familia": "SALSAS", "Producto": "LOP JU (ROJA)", "Especificación": "250 ML"},
+    {"Familia": "SALSAS", "Producto": "LOP JU (AMARILLA)", "Especificación": "250 ML"},
+    {"Familia": "SALSAS", "Producto": "LOS JAROCHOS (AMARILLA)", "Especificación": "150 ML"},
+    {"Familia": "SALSAS", "Producto": "SALSA INGLESA", "Especificación": "250 ML"},
+    {"Familia": "SALSAS", "Producto": "SALSA BRUJA", "Especificación": "40 ML"},
 ]
 
 df = pd.DataFrame(catalogo)
