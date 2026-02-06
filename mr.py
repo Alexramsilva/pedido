@@ -46,6 +46,7 @@ catalogo = [
     {"Familia": "MARISCOS", "Producto": "Pulpo", "Especificación": "0.5 Kg"},
     {"Familia": "MARISCOS", "Producto": "Mojarra", "Especificación": "Pieza"},
     {"Familia": "MARISCOS", "Producto": "Pescado", "Especificación": "1 Kg"},
+    {"Familia": "MARISCOS", "Producto": "Camarón Seco", "Especificación": "250 Gramos"},
 
     
     # -------- SAMS --------
@@ -80,6 +81,23 @@ catalogo = [
     {"Familia": "SALSAS", "Producto": "LOS JAROCHOS (AMARILLA)", "Especificación": "150 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA INGLESA", "Especificación": "250 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA BRUJA", "Especificación": "40 ML"},
+
+    #-------SAN JUAN-----------------
+    {"Familia": "SAN JUAN", "Producto": "CILANTRO", "Especificación": "MANOJO"},
+    {"Familia": "SAN JUAN", "Producto": "EPASOTE", "Especificación": "MANOJO"},
+    {"Familia": "SAN JUAN", "Producto": "SAL DE AJO", "Especificación": "MANOJO"},
+    {"Familia": "SAN JUAN", "Producto": "CHILE PUYA", "Especificación": "GRAMAJE"},
+    {"Familia": "SAN JUAN", "Producto": "CHILE GUAJIYO", "Especificación": "GRAMAJE"},
+    {"Familia": "SAN JUAN", "Producto": "CHULE CUARESMEÑO", "Especificación": "GRAMAJE"},
+    {"Familia": "SAN JUAN", "Producto": "JITOMATE", "Especificación": "GRAMAJE"},
+
+    #-------3B-----------------
+    {"Familia": "3B", "Producto": "HARINA 3 SOLES", "Especificación": "1 KILO"},
+    {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "CHICA"},
+    {"Familia": "3B", "Producto": "MAYONESA", "Especificación": "MEDIANA"},
+    {"Familia": "3B", "Producto": "SERVILLETA", "Especificación": "PAQUETE"},
+    {"Familia": "3B", "Producto": "CATSUP", "Especificación": " 1 LITRO"},
+    
 ]
 
 df = pd.DataFrame(catalogo)
