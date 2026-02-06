@@ -70,6 +70,7 @@ catalogo = [
     {"Familia": "MATERIA PRIMA", "Producto": "TAZÓN (LITRO)", "Especificación": "PAQUETE"},
     {"Familia": "MATERIA PRIMA", "Producto": "TAPA TAZÓN", "Especificación": "PAQUETE"},
     {"Familia": "MATERIA PRIMA", "Producto": "ROLLO BOLSA POLIPAPEL", "Especificación": "PAQUETE"},
+    {"Familia": "MATERIA PRIMA", "Producto": "ROYAL", "Especificación": "1 KILO"},
 
     # -------- SALSAS --------
     {"Familia": "SALSAS", "Producto": "VALENTINA NEGRA", "Especificación": "350 ML"},
