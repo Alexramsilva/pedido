@@ -84,15 +84,17 @@ catalogo = [
     {"Familia": "SALSAS", "Producto": "SALSA BRUJA", "Especificación": "40 ML"},
     {"Familia": "SALSAS", "Producto": "VALENTINA BOLSITA", "Especificación": "1 KG"},
     {"Familia": "SALSAS", "Producto": "SALADITAS", "Especificación": "1 PAQUETE"},
+    {"Familia": "SALSAS", "Producto": "ACEITE DE OLIVO", "Especificación": "350 ML"},
+    
 
     #-------SAN JUAN-----------------
     {"Familia": "SAN JUAN", "Producto": "CILANTRO", "Especificación": "MANOJO"},
     {"Familia": "SAN JUAN", "Producto": "EPASOTE", "Especificación": "MANOJO"},
-    {"Familia": "SAN JUAN", "Producto": "SAL DE AJO", "Especificación": "MANOJO"},
+    {"Familia": "SAN JUAN", "Producto": "SAL DE AJO", "Especificación": "1 KG"},
     {"Familia": "SAN JUAN", "Producto": "CHILE PUYA", "Especificación": "GRAMAJE"},
     {"Familia": "SAN JUAN", "Producto": "CHILE GUAJIYO", "Especificación": "GRAMAJE"},
-    {"Familia": "SAN JUAN", "Producto": "CHULE CUARESMEÑO", "Especificación": "GRAMAJE"},
-    {"Familia": "SAN JUAN", "Producto": "JITOMATE", "Especificación": "GRAMAJE"},
+    {"Familia": "SAN JUAN", "Producto": "CHILE CUARESMEÑO", "Especificación": "1 KG"},
+    {"Familia": "SAN JUAN", "Producto": "JITOMATE", "Especificación": "1 KG"},
 
     #-------3B-----------------
     {"Familia": "3B", "Producto": "HARINA 3 SOLES", "Especificación": "1 KILO"},
