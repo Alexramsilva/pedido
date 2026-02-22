@@ -73,6 +73,7 @@ catalogo = [
     {"Familia": "MATERIA PRIMA", "Producto": "ROYAL", "Especificación": "1 KILO"},
 
     # -------- SALSAS --------
+    {"Familia": "SALSAS", "Producto": "VALENTINA_ROJA", "Especificación": "350 ML"},
     {"Familia": "SALSAS", "Producto": "VALENTINA NEGRA", "Especificación": "350 ML"},
     {"Familia": "SALSAS", "Producto": "VALENTINA AZUL", "Especificación": "350 ML"},
     {"Familia": "SALSAS", "Producto": "LA GLORIA (ROJA)", "Especificación": "250 ML"},
@@ -82,9 +83,10 @@ catalogo = [
     {"Familia": "SALSAS", "Producto": "LOS JAROCHOS (AMARILLA)", "Especificación": "150 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA INGLESA", "Especificación": "250 ML"},
     {"Familia": "SALSAS", "Producto": "SALSA BRUJA", "Especificación": "40 ML"},
+    {"Familia": "SALSAS", "Producto": "ACEITE DE OLIVO", "Especificación": "350 ML"},
     {"Familia": "SALSAS", "Producto": "VALENTINA BOLSITA", "Especificación": "1 KG"},
     {"Familia": "SALSAS", "Producto": "SALADITAS", "Especificación": "1 PAQUETE"},
-    {"Familia": "SALSAS", "Producto": "ACEITE DE OLIVO", "Especificación": "350 ML"},
+
     
 
     #-------SAN JUAN-----------------
